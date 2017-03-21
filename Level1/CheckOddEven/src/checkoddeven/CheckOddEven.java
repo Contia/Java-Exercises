@@ -24,6 +24,7 @@ public class CheckOddEven {
             System.out.println("Even number");
         else
             System.out.println("Odd number");
+        System.out.println("BYE!");
     }
     
 }
