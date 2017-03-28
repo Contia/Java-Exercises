@@ -33,6 +33,9 @@ public class FileScanner {
                 name = in.next();
             }
             double sum = doubleNumber + number;
+            System.out.println("The integer read is " + number);
+            System.out.println("The floating point number is " + doubleNumber);
+            System.out.println("The String read is \"Peter\"");
             System.out.println("Hi! " + name + ", the sum of " + number + " and " + doubleNumber + " is " + sum);
 
         } catch (FileNotFoundException ex) {
