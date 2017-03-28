@@ -4,3 +4,5 @@ Write a program called PrintNumberInWord which prints "ONE", "TWO",... , "NINE",
 
 - a "nested-if" statement 
 - a "switch-case" statement.
+
+source (https://www3.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html)
